@@ -1,11 +1,11 @@
 ---
 layout: page
-#title: Enes Ayaz's CV
-#subtitle: Graduate Researcher, Electrical Engineering and Computer Science, \
-#KTH Royal Institute of Technology 
+title: About me
+subtitle: Why you'd want to go on a date with me
 ---
 
 ### Education
+
 - **KTH Royal Institute of Technology**, Stockholm, Sweden \
 *Ph.D Candidate*, Electrical and Electronics Engineering, *Present*
 - **Middle East Technical University**, Ankara, Turkey \
@@ -77,6 +77,7 @@ doi: 10.1109/SEST48500.2020.9203124
   Intern (07/2017– 08/2017)
 
 ### Graduate Lecture
+
 - **Linear Systems Theory II** \
   Lecturer : Prof. Umut Orguner, Spring '20 \
   "*Linear systems theory covers basic concepts such as system representation,*
@@ -117,10 +118,12 @@ doi: 10.1109/SEST48500.2020.9203124
   *Introducing current technology on power quality monitoring.*"
 
 ### Computer Skills
+
 - **Languages**: MATLAB, Embedded-C (C2000 hardwares, TI), Python, Latex
 - **Research tools**: Simulink, LTSpice, Maxwell (FEM), Altium (PCB Design)
 
 ### Extra Interest
+
 - Aikido
 - Guitar (Electric, Bass), Ukulele
 - Chess
