@@ -1,17 +1,18 @@
 ---
 layout: page
 title: Enes Ayaz's CV
-subtitle: Graduate Researcher, Electrical Engineering and Computer Science,
+subtitle: Graduate Researcher, Electrical Engineering and Computer Science, \
 KTH Royal Institute of Technology
 ---
+
 ### Education
 - **KTH Royal Institute of Technology**, Stockholm, Sweden \
-*Ph.D Candidate*, Electrical and Electronics Engineering, *Present* \
+*Ph.D Candidate*, Electrical and Electronics Engineering, *Present*
 - **Middle East Technical University**, Ankara, Turkey \
-*Master of Science*, Electrical and Electronics Engineering, *Sep' 22* \
+*Master of Science*, Electrical and Electronics Engineering, *Sep' 22*
 GPA: 3.75/4 (Overall) \
 - **Middle East Technical University**, Ankara, Turkey \
-*Bachelor of Science*, Electrical and Electronics Engineering, *Jul' 19* \
+*Bachelor of Science*, Electrical and Electronics Engineering, *Jul' 19*
 GPA: 3.58/4 (Overall) \
 
 
@@ -116,8 +117,8 @@ doi: 10.1109/SEST48500.2020.9203124
   *Introducing current technology on power quality monitoring.*"
 
 ### Computer Skills
-- Languages: MATLAB, Embedded-C (C2000 hardwares, TI), Python, Latex
-- Research tools: Simulink, LTSpice, Maxwell (FEM), Altium (PCB Design)
+- **Languages**: MATLAB, Embedded-C (C2000 hardwares, TI), Python, Latex
+- **Research** tools: Simulink, LTSpice, Maxwell (FEM), Altium (PCB Design)
 
 
 ### Extra Interest
