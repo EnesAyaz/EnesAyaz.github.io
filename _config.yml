@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: Enes Ayaz's Dungeon
 
 # Your name to show in the footer
 author: Enes Ayaz
@@ -21,10 +21,11 @@ author: Enes Ayaz
 
 navbar-links:
   About Me: "aboutme"
+  CV: 
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -51,11 +52,11 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+ # facebook: deanattali
+  github: enesayaz
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -71,8 +72,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: 0000-0002-5677-1336
+  google-scholar: citations?user=q9CcLWAAAAAJ&hl=tr
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
