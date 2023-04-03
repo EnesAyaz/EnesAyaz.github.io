@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Enes Ayaz's CV
-subtitle: Graduate Researcher, Electrical Engineering and Computer Science, \
-KTH Royal Institute of Technology
+#title: Enes Ayaz's CV
+#subtitle: Graduate Researcher, Electrical Engineering and Computer Science, \
+#KTH Royal Institute of Technology 
 ---
 
 ### Education
@@ -119,7 +119,6 @@ doi: 10.1109/SEST48500.2020.9203124
 ### Computer Skills
 - **Languages**: MATLAB, Embedded-C (C2000 hardwares, TI), Python, Latex
 - **Research tools**: Simulink, LTSpice, Maxwell (FEM), Altium (PCB Design)
-
 
 ### Extra Interest
 - Aikido
