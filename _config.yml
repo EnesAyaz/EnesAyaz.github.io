@@ -21,7 +21,7 @@ author: Enes Ayaz
 
 navbar-links:
   About Me: "aboutme"
-  CV: "/markdown documents/CV"
+  CV: "CV"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
