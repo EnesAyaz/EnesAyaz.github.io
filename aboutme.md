@@ -4,13 +4,14 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Long Story Short
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hello and welcome to my humble abode! Here, I will be sharing the ups and downs of my formal and informal life with you.
 
-What else do you need?
+Let me start by telling you a little about myself. I was born and raised in the beautiful city of Giresun, located in the northern region of Turkey. The harmonious blend of sea and rain made for a picturesque childhood that I will always cherish.
 
-### My story
+Fast forward a few years and I found myself enrolled in the Middle East Technical University (METU), situated in the bustling capital city of Ankara. Known for its excellent technical education, METU was the perfect place for me to pursue my academic dreams.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+After completing my Bachelor's and Master's degrees in Electrical and Electronics Engineering in 2019 and 2022, respectively. Parallelly, I began working at METU Powerlab during these periods as a research assistant. This lab opened up a world of opportunities for me to grow both personally and professionally.
+
+But not enough about me! On this blog, I will be sharing my interests with you - from academia and music to classes and Aikido. This is my personal space and I am excited to share my passions with you. So sit back, relax, and let's dive into the wonderful world of my experiences
