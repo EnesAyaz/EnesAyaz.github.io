@@ -22,9 +22,12 @@ author: Enes Ayaz
 navbar-links:
   About Me: "aboutme"
   CV: "CV"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  Useful links:
+    - Ozan Keysan's Website : "http://keysan.me/"
+    - Nail Tosun's Website  : "https://nailtosun.github.io/"
 #  Author's home: "https://deanattali.com"
 
 ################
