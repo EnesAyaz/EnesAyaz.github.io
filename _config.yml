@@ -22,6 +22,7 @@ author: Enes Ayaz
 navbar-links:
   About Me: "aboutme"
   CV: "CV"
+  Publications: "https://scholar.google.com/citations?user=q9CcLWAAAAAJ&hl=tr"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
